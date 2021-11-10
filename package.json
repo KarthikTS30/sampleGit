@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "posh-git": "^0.0.9"
+  }
+}
